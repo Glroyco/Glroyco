@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Baymax</h1>
+<h1 align="center">Baymax</h1>
 <h3 align="center">A passionate frontend developer from</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baymaxwatch&label=Profile%20views&color=0e75b6&style=flat" alt="baymaxwatch" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baymaxwatch" alt="baymaxwatch" /></a> </p>
-
-- 🔭 I’m currently working on **n**
-
-- 👯 I’m looking to collaborate on **n**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
