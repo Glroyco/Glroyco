@@ -9,6 +9,7 @@
 <a href="https://twitter.com/glroyco" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1395880969.1709769600&semt=ais" alt="jjj" height="35" width="40" /></a>
 <a href="https://linkedin.com/in/Ricard Riovaldo Simatupang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pkan" height="30" width="40" /></a>
 <a href="https://instagram.com/richardriovaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riv" height="30" width="40" /></a>
+<a href="https://discord.com/glroyco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riv" height="30" width="40" /></a>
   
 </p>
 
