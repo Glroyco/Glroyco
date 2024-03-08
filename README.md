@@ -1,5 +1,6 @@
 <h1 align="center">Hi Baymax</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="Coding" width="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fcults3d.com%2Fen%2F3d-model%2Fart%2Fbaymax-arl3dp&psig=AOvVaw1cp_rCZgr31Wc4DGPvbP6H&ust=1709969690141000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjs7dKT5IQDFQAAAAAdAAAAABAE>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
