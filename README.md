@@ -1,6 +1,6 @@
 <h1 align="center">Hi Baymax</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.stickpng.com/assets/images/5864034ae4578a1017d9ca4a.png">
+<img align="right" alt="https://files.cults3d.com/uploaders/19837175/illustration-file/e5e2e1a8-fb37-4df7-9d13-c4de98e22ec1/Baymax-gif3.gif">
 
 
 <h3 align="left">Connect with me:</h3>
